@@ -9,6 +9,11 @@
     "type": "library",
     "authors": [
         {
+            "name": "Jamshid",
+            "email": "jamshid.developer@gmail.com",
+            "role": "Developer"
+        },
+        {
             "name": "Shaxzodbek",
             "email": "shaxzodbek.qambaraliyev@gmail.com",
             "role": "Developer"
